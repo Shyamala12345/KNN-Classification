@@ -1,0 +1,1 @@
+# KNN-Classification: The KNN algorithm can accurately classify data points of a dataset relatively easily. For reasonably sized datasets with few outliers, this method is a reliable algorithm which can yields results in a relatively short period of time as compared to other models.
